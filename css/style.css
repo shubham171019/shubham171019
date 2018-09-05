@@ -1,0 +1,62 @@
+body{
+    
+    background-image:url('Images/backpic1.png');
+    background-color:black; 
+    background-repeat: no-repeat;
+    background-size: 25% 25%;
+
+}
+.nav-link .navbar-brand{
+    color: wheat !important;
+}
+.navbar-brand{
+    font-size: 3vw !important;
+}
+h1{
+    color: ghostwhite;  
+    text-align: center;
+    font-size: 100px;
+    
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-size: 20px;
+    color: ghostwhite;
+}
+h6{
+    color:black;
+}
+
+/* Style all font awesome icons */
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+    opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+
+h2{
+    color: ghostwhite;  
+    text-align: center;
+}
