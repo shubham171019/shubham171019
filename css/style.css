@@ -1,6 +1,6 @@
 body{
     
-    background-image:url('Images/backpic1.png');
+    
     background-color:black; 
     background-repeat: no-repeat;
     background-size: 25% 25%;
@@ -59,4 +59,8 @@ h6{
 h2{
     color: ghostwhite;  
     text-align: center;
+}
+.jumbotron
+{
+    background-color:black; 
 }
